@@ -6,7 +6,7 @@
   - [Data Structures and Alogrithims Walkthroughs] (https://github.com/BrycesonJones/LabURL)
 
 - <b>PowerShell</b>
-  - [FIM (File Integrity Monitor)] (https://github.com/BrycesonJones/LabURL)
+  - [FIM (File Integrity Monitor)] (https://github.com/BrycesonJones/File_Integrity_Monitor)
 
 - <b>Vulnerability Management</b>
   - [Vulnerability Management Demo] (https://github.com/BrycesonJones/LabURL)
