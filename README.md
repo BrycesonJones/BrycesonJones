@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice</b>
   - [Data Structures and Alogrithims Walkthroughs] (https://github.com/BrycesonJones/LabURL)
 
 - <b>PowerShell</b>
