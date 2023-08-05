@@ -12,7 +12,7 @@
   - [Vulnerability Management Demo] (https://github.com/BrycesonJones/LabURL)
 
 - <b>RESTful API Development</b>
-  - [RESTful API] (https://github.com/BrycesonJones/LabURL)
+  - [RESTful API] (https://github.com/BrycesonJones/Express_RESTful_API_Demo)
 
 <h2>👨‍💻 Certifications:</h2>
 
