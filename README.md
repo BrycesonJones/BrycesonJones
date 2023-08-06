@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Data Structures and Alogrithims Walkthroughs] (https://github.com/BrycesonJones/LabURL)
+  - [Data Structures and Alogrithims Walkthroughs] (https://github.com/BrycesonJones/DataStructures-Alogrithims_Practice)
 
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)] (https://github.com/BrycesonJones/File_Integrity_Monitor)
