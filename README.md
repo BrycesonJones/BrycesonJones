@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bryceson! <br/><a href="https://github.com/BrycesonJones">Programmer</a>, <a href="https://www.linkedin.com/in/brycesonjones/">Engineer Professional</a>
+<h1>Hi, I'm Bryceson! <br/><a href="https://www.linkedin.com/in/brycesonjones/">Engineering</a>
 
 <h2>👨‍💻 Projects:</h2>
 
