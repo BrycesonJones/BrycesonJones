@@ -2,17 +2,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Data Structures and Alogrithims Walkthroughs] (https://github.com/BrycesonJones/DataStructures-Alogrithims_Practice)
-
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)] (https://github.com/BrycesonJones/File_Integrity_Monitor)
 
 - <b>Vulnerability Management</b>
   - [Vulnerability Management Demo] (https://github.com/BrycesonJones/Vulnerability_Management_Demo)
-
-- <b>RESTful API Development</b>
-  - [RESTful API] (https://github.com/BrycesonJones/Express_RESTful_API_Demo)
 
 <h2>👨‍💻 Certifications:</h2>
 
