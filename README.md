@@ -1,6 +1,15 @@
 <h1>Hi, I'm Bryceson! <br/><a href="https://www.linkedin.com/in/brycesonjones/">Engineering</a>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻Current Projects:</h2>
+
+- <CommunityPool</b>
+  - [Global Crypto Crowdfunding)] (https://communitypool.online)
+
+- <b>Lyoko</b>
+  - [AI and Agentic System Development] (https://www.alyoko.io)
+ 
+- <YouTube Channel</b>
+  - [Simulacra)] (https://www.youtube.com/@SystemsofSimulacra)
 
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)] (https://github.com/BrycesonJones/File_Integrity_Monitor)
