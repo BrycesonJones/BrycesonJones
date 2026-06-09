@@ -2,13 +2,13 @@
 
 <h2>👨‍💻Current Projects:</h2>
 
-- <CommunityPool</b>
+- <b>CommunityPool</b>
   - [Global Crypto Crowdfunding)] (https://communitypool.online)
 
 - <b>Lyoko</b>
   - [AI and Agentic System Development] (https://www.alyoko.io)
  
-- <YouTube Channel</b>
+- <b>YouTube Channel</b>
   - [Simulacra)] (https://www.youtube.com/@SystemsofSimulacra)
 
 - <b>PowerShell</b>
